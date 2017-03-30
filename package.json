@@ -1,0 +1,19 @@
+{
+  "name": "shorturlnalc",
+  "version": "1.0.0",
+  "description": "url shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalcus/shorturlnalc.git"
+  },
+  "author": "nalcus@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalcus/shorturlnalc/issues"
+  },
+  "homepage": "https://github.com/nalcus/shorturlnalc#readme"
+}
